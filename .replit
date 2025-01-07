@@ -1,0 +1,11 @@
+language = "bash"
+run = "node alice.js"
+
+[[ports]]
+localPort = 3000
+externalPort = 80
+
+
+#  A L I C E »   this bot is coded
+#                and develop by one 
+#                person leiamnash
